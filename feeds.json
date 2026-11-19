@@ -1,0 +1,10 @@
+[
+  {"name": "Companies", "url": "https://www.livemint.com/rss/companies"},
+  {"name": "Opinion", "url": "https://www.livemint.com/rss/opinion"},
+  {"name": "Money", "url": "https://www.livemint.com/rss/money"},
+  {"name": "Science", "url": "https://www.livemint.com/rss/science"},
+  {"name": "Industry", "url": "https://www.livemint.com/rss/industry"},
+  {"name": "Technology", "url": "https://www.livemint.com/rss/technology"},
+  {"name": "Insurance", "url": "https://www.livemint.com/rss/insurance"},
+  {"name": "Budget", "url": "https://www.livemint.com/rss/budget"}
+]
